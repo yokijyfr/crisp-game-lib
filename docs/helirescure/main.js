@@ -76,7 +76,7 @@ function update() {
   }
   human.forEach((s) => {
     color("light_black");
-    box(s.pos, 6);
+    box(s.pos, 8);
 });
 
   if (
